@@ -270,6 +270,4 @@ Este software é licenciado sob os termos da MIT License.
 
 ⌨️ Desenvolvido por [Vitor Bittencourt](https://github.com/vitorVBD) ☕
 
-<div>#   m a c h i n e - l e a r n i n g - p a r a - p r e v e r - v e n d a s  
- #   m a c h i n e - l e a r n i n g - p a r a - p r e v e r - v e n d a s  
- 
+<div>
